@@ -23,9 +23,7 @@ I recently introduced the original GAT architecture to my coursemates in the Dee
 
 - [Understanding Graph Attention Networks by DeepFindr](https://youtu.be/A-yKQamf2Fc)
 
-- [Graph Attention Networks (GAT) | GNN Paper Explained](https://youtu.be/uFLeKkXWq2c)
-
-  [by The AI Epiphany](https://youtu.be/uFLeKkXWq2c)
+- [Graph Attention Networks (GAT) | GNN Paper Explained by The AI Epiphany](https://youtu.be/uFLeKkXWq2c)
 
 - [Graph Attention Network Project Walkthrough by The AI Epiphany](https://youtu.be/364hpoRB4PQ)
 
